@@ -11,25 +11,25 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: MEDIATION data catalog
+title: BRIDGES-AVATAR data catalog
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: archive
 # description appears in sidebar footer
-description: The list of the available data that have been used or produced within the MEDIATION project.
+description: Some useful data that have been used or produced within the BRIDGES-AVATAR project.
 # keywords for meta tags used by search engines
-keywords: "data, ocean, simulation, models"
+keywords: "data, ocean, avatar, social-ecological system"
 # image for meta tags, will appear when sharing link on social media
-featured-image: "/images/ocean-cropped.jpg"
+featured-image: "/images/bridges-fishers.jpg"
 
 # author name, displayed in credits
 author: Tino Bellayer
 # year or date published, displayed in sidebar
 publication_year: 2025
 # location of code, the full url to your github repository
-source-code: https://github.com/mediation-ocean/mediation-catalog-webpage
+source-code: https://github.com/bridges-avatar/pc3-catalog-webpage
 # content license (typically "cc by-sa"), displayed in sidebar
 content_license: "CC BY-SA"
 # URL to the content license
