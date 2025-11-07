@@ -7,4 +7,4 @@ topics: Front Matter; Navigation
 
 ## PC3 simulations
 
-This location is empty for the moment. more to come...
++ [SWAG (Penven et al.)](https://github.com/BRIDGES-AVATAR/pc3-catalog/blob/main/PC3-simulations/SWAG-2025.md)
