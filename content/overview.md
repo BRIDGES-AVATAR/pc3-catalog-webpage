@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-title: Overview
+title: Overview of the project
 ---
 
 {% include figure.html img="bridges-fishers-bandeau.jpg" alt="bridges fishers bandeau" caption="" width="95%" %}
@@ -18,8 +18,7 @@ More information on PC3-AVATAR (including a video description by head of the pro
 
 ## What is available here
 
-In order to facilitate exchange on technical developments and / or scientific knowledge, some [tools](https://github.com/BRIDGES-AVATAR/pc3-catalog/blob/main/README.md#PC3-tools), but also [simulations](https://github.com/BRIDGES-AVATAR/pc3-catalog/blob/main/README.md#PC3-simulations) and [observation data](https://github.com/BRIDGES-AVATAR/pc3-catalog/blob/main/README.md#PC3-observations) that have been used and / or produced within the project are listed and detailed [on the project's data catalog](https://github.com/BRIDGES-AVATAR/pc3-catalog/). It aims at sharing the most useful data and other pieces of information between the project members.
+In order to facilitate exchange on technical developments and / or scientific knowledge, some tools, but also simulations and observation data that have been used and / or produced within the project are listed on the left side bar of this page. It aims at sharing the most useful data and other pieces of information between the project members.
 
-You can also visit the catalog website for BRIDGES-AVATAR [here](https://bridges-avatar.github.io/pc3-catalog-webpage).
 
     
