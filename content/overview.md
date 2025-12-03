@@ -18,7 +18,7 @@ More information on PC3-AVATAR (including a video description by head of the pro
 
 ## What is available here
 
-In order to facilitate exchange on technical developments and / or scientific knowledge, some tools, but also simulations and observation data that have been used and / or produced within the project are listed on the left side bar of this page. It aims at sharing the most useful data and other pieces of information between the project members.
+In order to facilitate exchange on technical developments and / or scientific knowledge, some tools, but also simulations and observation data that have been used and / or produced within the project are listed on the left side bar of this page (click on the titles to see all datasets or go back to the [home page](https://bridges-avatar.github.io/pc3-catalog-webpage/)). It aims at sharing the most useful data and other pieces of information between the project members.
 
 
     
