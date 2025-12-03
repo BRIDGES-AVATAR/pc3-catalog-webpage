@@ -1,6 +1,6 @@
 ---
 section: Simulations
-nav_order: 2
+nav_order: 5
 title: SWIOSE simulations
 ---
 

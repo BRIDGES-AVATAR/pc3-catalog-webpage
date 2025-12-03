@@ -1,6 +1,6 @@
 ---
 section_id: Software & Toolboxes
-nav_order: 1
+nav_order: 6
 title: Stogen module
 ---
 
