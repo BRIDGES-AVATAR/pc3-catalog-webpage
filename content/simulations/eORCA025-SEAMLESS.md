@@ -14,13 +14,13 @@ Jean-Michel Brankart (IGE, CNRS), Mikhaïl Popov (Formerly IGE), Pierre Brasseur
 
 ## Scientific context and background
 
-This dataset contains the dynamical outputs of a global ocean simulation coupling dynamics and biogeochemistry at ¼° over the year 2019. Ocean model NEMO is coupled to ecosystem model PISCES. This simulation is one of the 40 ensemble runs that constitutes a stochastic simulator used in conjonction with ocean colour observations to analyse and predict ecosystem indicators in the Horizon Europe project SEAMLESS (https://seamlessproject.org/Home.html)
+This dataset contains the dynamical outputs of a global ocean simulation coupling dynamics and biogeochemistry at ¼° over the year 2019. Ocean model NEMO is coupled to ecosystem model PISCES. This simulation is one of the 40 ensemble runs that constitutes a stochastic simulator used in conjonction with ocean colour observations to analyse and predict ecosystem indicators in the Horizon Europe project [SEAMLESS](https://seamlessproject.org/Home.html)
 
 <img src="figures/SST-eORCA025-SEAMLESS.png" alt="drawing" width="600"/>
 
 **Fig. 1:  Example of sea-surface temperature in the Indian, South Atlantic and Southern oceans**
 
-See Popov et al. (https://os.copernicus.org/articles/20/155/2024/) for more details on the study.
+See [Popov et al.](https://os.copernicus.org/articles/20/155/2024/) for more details on the study.
 
 
 ## Related publications
@@ -48,10 +48,10 @@ See Popov et al. (https://os.copernicus.org/articles/20/155/2024/) for more deta
 ## Available data for download
 
 **Member 001 outputs only for now**
-+ Ocean dynamics  : https://www.seanoe.org/data/00985/109696/
-+ Biology  : https://www.seanoe.org/data/00990/110173/
-+ Nutrients  : https://www.seanoe.org/data/00990/110174/
-+ Other biological fields  :
++ [Ocean dynamics](https://www.seanoe.org/data/00985/109696/)
++ [Biology](https://www.seanoe.org/data/00990/110173/)
++ [Nutrients](https://www.seanoe.org/data/00990/110174/)
++ [Other biological fields]()
 
 
 ## Related processing tools
