@@ -4,15 +4,15 @@ nav_order: 4
 title: SWIOSE simulations
 ---
 
-# SouthWest Indian Ocean Stochastic Ensembles (SWIOSE): Probabilistic modeling of the Southwest Indian Ocean dynamics to quantify uncertainties in surface currents
+## SouthWest Indian Ocean Stochastic Ensembles (SWIOSE): Probabilistic modeling of the Southwest Indian Ocean dynamics to quantify uncertainties in surface currents
 
 
-## People in charge and affiliation
+### People in charge and affiliation
 
 Lisa WEISS (LEGOS, IRD), Jean-Michel Brankart (IGE, CNRS), Pierre Brasseur (IGE, CNRS),
 
 
-## Scientific context and background
+### Scientific context and background
 
 ***ADAPTED FROM WEISS ET AL., 2025***
 
@@ -37,7 +37,7 @@ To date, three ensembles have been generated:
 A fourth ensemble (perturbation of the open boundary conditions) may also be produced later. These experiments describing prior uncertainties and the associated modeling testbed will then be used for 4D inversions (Popov et al., 2024) exploiting high-resolution spatial (real or simulated) altimetry, surface currents, high-resolution temperature and ocean colour data to reduce uncertainties in surface ocean Lagrangian transport. The integration of stochastic methodologies within CROCO may facilitate scenario exploration and uncertainty quantification, providing a basis for informed decision-making and collaborations with ocean actors in the SWIO region.
 
 
-## Related publications
+### Related publications
 
 + Weiss, L., Brankart, J.-M., Jamet, Q., and Brasseur, P.: *Probabilistic modeling of the Southwest Indian Ocean dynamics to quantify uncertainties in surface currents*, One Ocean Science Congress 2025, Nice, France, 3–6 June 2025, OOS2025-613, https://doi.org/10.5194/oos2025-613, 2025.
 
@@ -48,32 +48,32 @@ A fourth ensemble (perturbation of the open boundary conditions) may also be pro
 + Popov, M., Brankart, J.-M., Capet, A., Cosme, E., and Brasseur, P.: *Ensemble analysis and forecast of ecosystem indicators in the North Atlantic using ocean colour observations and prior statistics from a stochastic NEMO–PISCES simulator*, Ocean Sci., 20, 155–180, https://doi.org/10.5194/os-20-155-2024, 2024.
 
 
-## Number of simulations (+ number of members if ensemble)
+### Number of simulations (+ number of members if ensemble)
 
 + 3 ensembles of 30 members : INI, CD, GLS (90 runs total)
 
 
-## Configurations, parameters, resolution, timestep, domain, span
+### Configurations, parameters, resolution, timestep, domain, span
 
 + Domain: (SWIO region)
 + Resolution: 1/12°, sigma levels
 + Timespan: 3 years (2017-2019)
 
 
-## Target variables
+### Target variables
 
 + Physics: u, v, w, omega, T, S, zeta
 
 
-## Related processing tools
+### Related processing tools
 
 + [STOGEN module (Brankart)](https://github.com/brankart/stogen/tree/main) : production of stochastic ensembles
 
 
-## Calculation cost, volume, access
+### Calculation cost, volume, access
 
 + Volume: 60 TB (daily average outputs)
 + These data are stored on the Adastra cluster (CINES). Please reach to [Jean-Michel Brankart or Aurélie Albert](https://meom-group.github.io/people/) if you are interested, or for further information.
 
 
-## Other Useful information
+### Other Useful information
