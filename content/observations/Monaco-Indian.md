@@ -1,6 +1,6 @@
 ---
 section_id: Observations
-nav_order: 2
+nav_order: 5
 title: Monaco Exploration Indian Ocean cruise
 ---
 
