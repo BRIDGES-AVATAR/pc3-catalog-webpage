@@ -4,10 +4,10 @@ nav_order: 11
 title: How to upload data on Seanoe
 ---
 
-1 - [Access Seanoe](#access-seanoe)
-2 - [Create your Marine Id](#create-your-marine-id)
-3 - [Seanoe dashboard](#seanoe-dashboard
-4 - [New upload](#new-upload)
+  - [Access Seanoe](#access-seanoe)
+  - [Create your Marine Id](#create-your-marine-id)
+  - [Seanoe dashboard](#seanoe-dashboard)
+  - [New upload](#new-upload)
 
 
 ## Access Seanoe
