@@ -30,7 +30,7 @@ The two datasets were collected in concomitancy with the deployment of 29 One-Ar
 
 ## Related publications
 
-+ Wilhem Riom, Vincent Taillandier, Céline Dimier, Fabrizio D'Ortenzio, Hervé Claustre, *Biogeochemical float deployment strategy in the Southwestern Indian ocean* (2025). Deep Sea Research Part II: Topical Studies in Oceanography, Volume 222, 2025, 105504, ISSN 0967-0645, https://doi.org/10.1016/j.dsr2.2025.105504.
++ Wilhem Riom, Vincent Taillandier, Céline Dimier, Fabrizio D'Ortenzio, Hervé Claustre, *Biogeochemical float deployment strategy in the Southwestern Indian ocean* (2025). Deep Sea Research Part II: Topical Studies in Oceanography, Volume 222, 2025, 105504, ISSN 0967-0645, [https://doi.org/10.1016/j.dsr2.2025.105504](https://doi.org/10.1016/j.dsr2.2025.105504).
 
 
 ## Data production details
