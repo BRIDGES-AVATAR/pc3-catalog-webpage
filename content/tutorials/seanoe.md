@@ -4,6 +4,10 @@ nav_order: 11
 title: How to upload data on Seanoe
 ---
 
+## How to upload data on Seanoe
+
+
+
   - [Access Seanoe](#access-seanoe)
   - [Create your Marine Id](#create-your-marine-id)
   - [Seanoe dashboard](#seanoe-dashboard)
@@ -15,7 +19,7 @@ Publication of datasets in SEANOE data is free of charge, with a limitation of 1
 
 Each dataset published on SEANOE will get a unique DOI which allow it to be published and cited in the most reliable and sustainable way.
 
-## Access Seanoe
+### Access Seanoe
 
 Seanoe is accessible at the url : [seanoe.org](seanoe.org)
 
@@ -23,7 +27,7 @@ Seanoe is accessible at the url : [seanoe.org](seanoe.org)
 
 It primarily show the latest outputs.
 
-## Create your Marine Id
+### Create your Marine Id
 
 To upload your own data, click first on the "New Upload" button at the upper right corner
 
@@ -35,13 +39,13 @@ If you do not have a Marine Id yet, you will need to register
 
 <img src="figures/Marine-Id.png" alt="accueil" width="600"/>
 
-## Seanoe dashboard
+### Seanoe dashboard
 
 Once you are logged in, the dashboard show your and in progress uploads (if you never uploaded any dataset, it should be empty)
 
 <img src="figures/SEANOE-your-dahsboard.png" alt="accueil" width="600"/>
 
-## New upload
+### New upload
 
 Click on NEW UPLOAD to create a new dataset
 
