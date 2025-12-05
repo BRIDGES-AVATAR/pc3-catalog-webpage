@@ -1,7 +1,7 @@
 ---
-section_id: Tutorials
+section_id: Sharing the data
 nav_order: 11
-title: How to upload data on Seanoe
+title: Tutorials on Seanoe
 ---
 
 ## How to upload data on Seanoe
