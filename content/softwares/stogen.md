@@ -84,7 +84,7 @@ but the user is free to use any combination of them.
 Other random number generators can also easily be included.
 A tool to compare their computational performance is provide in module `storng_check`.
 
-The result I obtain from this comparison is:
+The result obtained from this comparison is:
 
 ```
 We test 3 random number generators:
