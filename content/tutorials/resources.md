@@ -1,5 +1,5 @@
 ---
-section: Sharing the data
+section_id: Sharing the data
 nav_order: 10
 title: Ressources
 ---
@@ -13,7 +13,7 @@ ODATIS propose des outils et plateformes qui permettent donc le partage, l'archi
 
   - pour l'upload de données <100G, l'entrepôt [SEANOE](https://www.seanoe.org/) : voir [le tutoriel](https://bridges-avatar.github.io/pc3-catalog-webpage/content/tutorials/seanoe.html) dédié
   - pour le référencement des jeux de données, le [catalogue BRIDGES](https://tinyurl.com/catalog-bridges) est déployé par [Sextant](https://sextant.ifremer.fr/)
-  - pour l'archivage de données plus massives (<15T), le mésocentre de calcul opéré par l'Ifremer [Datarmor](https://datarmor.ifremer.fr/) offre des ervices d'archivage, partage et doi
+  - pour l'archivage de données plus massives (<15T), le mésocentre de calcul opéré par l'Ifremer [Datarmor](https://datarmor.ifremer.fr/) offre des services d'archivage, partage et doi à ses partenaires
 
 
 

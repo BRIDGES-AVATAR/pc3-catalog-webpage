@@ -1,5 +1,5 @@
 ---
-section_id: Sharing the data
+section: Sharing the data
 nav_order: 11
 title: Tutorials on Seanoe
 ---
@@ -49,9 +49,9 @@ Once you are logged in, the dashboard show your and in progress uploads (if you 
 
 Click on NEW UPLOAD to create a new dataset
 
-You will find below the informations required to get a doi.
+You will find below the informations required to get a doi, the better it is done the faster the validation will be granted
 
-Be aware that once you submit the dataset, it can be modified only by request, so be sure to have correctly filled out all the requirements before clicking on submit.
+Be aware that once you submit the dataset, it can be modified only by mail request, so be sure to have correctly filled out all the requirements before clicking on submit.
 
 
 <img src="figures/new-upload1.png" alt="accueil" width="600"/>
