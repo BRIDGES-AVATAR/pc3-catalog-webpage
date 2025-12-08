@@ -8,7 +8,7 @@ title: Add a dataset
 
 You want to add your simulation, a meaningful observation dataset or a software you develop/use to this catalog ?
 
-Please contact Aurélie Albert and Tino Bellayer (prenom.nom@univ-grenoble-alpes.fr) for the following informations :
+Please contact Aurélie Albert and Tino Bellayer (prenom.nom@univ-grenoble-alpes.fr) with the following informations :
 
   - title
   - people in charge and affiliation
