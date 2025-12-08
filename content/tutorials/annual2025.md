@@ -1,7 +1,7 @@
 ---
 section: Sharing the data
-nav_order: 12
-title: Atelier Gestion de données - Annual Meeting 2025
+nav_order: 13
+title: Atelier Gestion de données
 ---
 
 # Atelier Gestion de données - Annual Meeting 2025
