@@ -53,7 +53,7 @@ The two datasets were collected in concomitancy with the deployment of 29 One-Ar
 
 # Data access
 
-+ These data are directly available on [Sextant](https://sextant.ifremer.fr/Donnees/Catalogue#/metadata/seanoe:98833) for downloading.
++ Data are available on [Seanoe](https://doi.org/10.17882/98833) (directly) and [Sextant](https://sextant.ifremer.fr/Donnees/Catalogue#/metadata/seanoe:98833) (indirectly) for downloading.
 
 
 ## Other Useful information
