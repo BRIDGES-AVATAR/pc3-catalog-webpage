@@ -1,7 +1,7 @@
 ---
 section: Simulations
 nav_order: 5
-title: SWAG simulations
+title: APECOSM projections
 ---
 
 
