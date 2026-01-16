@@ -1,5 +1,5 @@
 ---
-section_id: Software & Toolboxes
+section: Software
 nav_order: 11
 title: OceanParcels Lagrangian module
 ---
