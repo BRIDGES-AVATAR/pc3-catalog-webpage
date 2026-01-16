@@ -1,6 +1,6 @@
 ---
 section: Sharing the data
-nav_order: 13
+nav_order: 16
 title: Atelier Gestion de données
 ---
 
