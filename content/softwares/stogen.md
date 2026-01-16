@@ -1,5 +1,5 @@
 ---
-section: Software
+section_id: Software
 nav_order: 9
 title: Stogen module
 ---
