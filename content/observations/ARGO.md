@@ -1,7 +1,7 @@
 ---
 section: Observations
 nav_order: 8
-title: ARGO-GDAC profles
+title: ARGO-GDAC profiles
 ---
 
 
