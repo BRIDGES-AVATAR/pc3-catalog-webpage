@@ -1,5 +1,5 @@
 ---
-section_id: Software & Toolboxes
+section: Software
 nav_order: 10
 title: ICHTHYOP Lagrangian module
 ---
