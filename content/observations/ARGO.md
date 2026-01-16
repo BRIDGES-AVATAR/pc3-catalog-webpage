@@ -1,5 +1,5 @@
 ---
-section: Simulations
+section: Observations
 nav_order: 8
 title: SWAG simulations
 ---
