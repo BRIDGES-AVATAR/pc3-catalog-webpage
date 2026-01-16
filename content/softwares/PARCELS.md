@@ -1,7 +1,7 @@
 ---
-section: Simulations
+section_id: Software & Toolboxes
 nav_order: 11
-title: SWAG simulations
+title: OceanParcels Lagrangian module
 ---
 
 
