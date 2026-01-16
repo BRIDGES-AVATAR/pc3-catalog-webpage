@@ -1,7 +1,7 @@
 ---
 section: Simulations
 nav_order: 6
-title: SWAG simulations
+title: SYMPHONIE-SWIO configuration
 ---
 
 
