@@ -1,7 +1,7 @@
 ---
-section: Simulations
+section_id: Software & Toolboxes
 nav_order: 10
-title: SWAG simulations
+title: ICHTHYOP Lagrangian module
 ---
 
 
