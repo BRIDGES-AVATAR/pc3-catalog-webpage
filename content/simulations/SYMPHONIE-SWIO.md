@@ -34,7 +34,8 @@ Lisa Weiss (LEGOS, IRD)
       - IndOc.12: regular Arakawa C-grid grid (1536 x 1100 cells) with a horizontal discretization at 1/12° (8-9 km).
  
 <img src="figures/f01_grid_edit_review.png" alt="drawing" width="600"/>
-** IndOc.HR grid (in km, gray scale), displaying every 50 gridlines (red lines). Blue dots show the 336 daily freshwater discharges simulated in the configuration.**
+
+**Fig. 1 : IndOc.HR grid (in km, gray scale), displaying every 50 gridlines (red lines). Blue dots show the 336 daily freshwater discharges simulated in the configuration.**
 
 ## Number of simulations (+ number of members if ensemble)
 
