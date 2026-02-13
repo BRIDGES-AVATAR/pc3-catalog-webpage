@@ -18,6 +18,8 @@ The BRIO project for “Building Resilience in the Indian Ocean” aims to devel
 Sout West Indian Ocean's climate up to the year 2100. The climate models used make it possible to identify long-term trends in temperature,
 rainfall, and cyclonic activity in the region.
 
+[](figures/brio.png)
+
 ### Related publications
 
 Leroux, M.-D., Bonnardot, F., Kotomangazafy, S., Rhidoine, A-O.S., Veerabadren, P. et al. 2023 : Régionalisation du changement climatique
