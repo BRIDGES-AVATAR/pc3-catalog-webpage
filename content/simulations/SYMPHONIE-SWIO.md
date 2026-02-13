@@ -14,6 +14,7 @@ Lisa Weiss (LEGOS, IRD)
 
 ## Scientific context and background 
 
+The SYM-IndOc.HR model configuration was developed to simulate the ocean circulation of the entire Indian Basin. It enables the  the study of meso and submesoscale processes in the coastal region, from the Mozambique Channel to the Bay of Bengal, at a resolution of 1 to 3 km. It has been designed to support studies on land-sea transfers and marine debris dispersion from coastal to basin scales. In addition to air-sea exchanges and tides, this configuration integrates the recently released high-resolution GloFAS river discharge dataset to force the physical simulations with daily freshwater inputs, as well as wave forcing through both the Stokes-Coriolis force and the Stokes drift (IndOc.HR-Sto). 
 
 ## Related publications
 
@@ -39,23 +40,27 @@ Lisa Weiss (LEGOS, IRD)
 
 ## Number of simulations (+ number of members if ensemble)
 
-* IndOc.HR, IndOc.HR-Sto, IndOc.12: 3 sensitivity tests with daily outputs over 1 year (2017) 
+* IndOc.HR, IndOc.HR-Sto, IndOc.12: 3 sensitivity tests with daily mean outputs over 1 year (2017) 
 
 * IndOc.HR-Sto: Air-Sea forcing, Tides, River forcing, Wave forcing
   
-        - 3D daily outputs 2016-2020, saved variables = U,V, SSH, Temperature, Salinity, W_surface, vertical tracer diffusivity [log10difv], turbulent kinetic energy [log10tke], water transport UAH, VAH
+        - 3D daily mean outputs 2016-2020, saved variables = U,V, SSH, Temperature, Salinity, W_surface, vertical tracer diffusivity [log10difv], turbulent kinetic energy [log10tke], water transport UAH, VAH
   
         - 2D hourly outputs 2016-2019, saved variables =  U,V surface, U,V bottom, U,V tide, U,V Stokes drift
 
-* IndOc.HR-Sto: 3D tri-hourly outputs from 02/2019 to 10/2019 
+* IndOc.HR-Sto: 3D tri-hourly mean outputs from 02/2019 to 10/2019 
 
 ## Related processing tools
 
 ## Calculation cost, volume, access
 
-* 2D outputs = 4.8 To (1.2 To per year x4)
-* 3D outputs = 4.2 To (840 Go per year x5)
-* When decompressed, 1 hourly 2D file = 257 Mo, 9 To for 4 years, and 1 daily 3D file = 5.9 Go, 10.8 To for 5 years
+Regular SYMPHONIE netCDF files 
+
+* 2D hourly outputs = 4.8 To (1.2 To per year x4)
+* 3D daily mean outputs = 4.2 To (840 Go per year x5)
+* When decompressed, 1 2D hourly file = 257 Mo, 9 To for 4 years, and 1 3D daily file = 5.9 Go, 10.8 To for 5 years
+
+Stored on: TGCC-Irene and IGE-cal1-summer 
 
 ## Other Useful information
 
