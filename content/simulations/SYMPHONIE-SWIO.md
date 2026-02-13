@@ -4,7 +4,7 @@ nav_order: 6
 title: SYMPHONIE-IndOc configuration
 ---
 
-# Indian Ocean configurations and simulations 
+# Indian Ocean configurations and simulations with SYMPHONIE hydrodynamic model
 
 
 ## People in charge and affiliation
@@ -41,7 +41,7 @@ Lisa Weiss (LEGOS, IRD)
 
 * IndOc.HR, IndOc.HR-Sto, IndOc.12: 3 sensitivity tests with daily outputs over 1 year (2017) 
 
-* IndOc.HR-Sto:
+* IndOc.HR-Sto: Air-Sea forcing, Tides, River forcing, Wave forcing
   
         - 3D daily outputs 2016-2020, saved variables = U,V, SSH, Temperature, Salinity, W_surface, vertical tracer diffusivity [log10difv], turbulent kinetic energy [log10tke], water transport UAH, VAH
   
