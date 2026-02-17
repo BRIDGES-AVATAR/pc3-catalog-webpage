@@ -34,17 +34,17 @@ and 18 simulations corrected directly from GCMs (statistical downscaling).
 
 ### Configurations, parameters, resolution, timestep, domain, span
 
-The climatic regional model ALADIN-v6 at 12km resolution is coupled to a global CMIP6 model, called CNRM-ESM2-A with ~150km resolution
-The historical period convers 1981-2014 and projections are for 2015-2100
+The climatic regional model ALADIN-v6 at 12km resolution is coupled to a global CMIP6 model, called CNRM-ESM2-1 with ~150km resolution
+The historical period covers 1981-2014 and projections are for 2015-2100
+Futures projections have run for 4 greenhouse effects gazes emission scenarii : SSP1-2.6, SS2-4.5, SSP3-7.0, SSP5-8.5
 
 ### Target variables
-
-Surface temperature, precipitation, infrared radiations, humidity and wind speed
+Atmospheric fields : surface temperature, precipitation, infrared radiations, humidity and wind speed
 
 
 ### Calculation cost, volume, access
 
-Data available on the [DRIAS platform](https://www.drias-climat.fr/commande) : create an account and look for Outre-mer/La Réunion SocleOM-Climat-2025/Données de projection sur La Réunion
+Data available on the [DRIAS platform](https://www.drias-climat.fr/commande) : create an account and look for Outre-mer/La Réunion SocleOM-Climat-2025/Données de projection sur La Réunion, with a description of the data [here](https://www.drias-climat.fr/accompagnement/sections/338)
 
 ### Other Useful information
 
