@@ -48,10 +48,10 @@ See [Popov et al.](https://os.copernicus.org/articles/20/155/2024/) for more det
 ### Available data for download
 
 **Member 001 outputs only for now**
-+ [Ocean dynamics](https://www.seanoe.org/data/00985/109696/)
-+ [Biology](https://www.seanoe.org/data/00990/110173/)
-+ [Nutrients](https://www.seanoe.org/data/00990/110174/)
-+ [Other biological fields]()
++ [Ocean dynamics](https://doi.org/10.17882/109696)
++ [Biology](https://doi.org/10.17882/110173)
++ [Nutrients](https://doi.org/10.17882/110174)
++ [Other biological fields](https://doi.org/10.17882/110206)
 
 
 ### Related processing tools
